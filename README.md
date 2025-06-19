@@ -1,7 +1,4 @@
-Absolutely, Arpita! 💖 Here's your complete README in plain text mode (no markdown formatting), ready for copy-paste into your README.md file in VS Code:
 
-
----
 
 📬 Spam Detector with Machine Learning
 
